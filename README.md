@@ -1,2 +1,4 @@
 # prickle-emulator
-a emulator built on qemu 
+a emulator built on qemu (quick emulator)
+
+
