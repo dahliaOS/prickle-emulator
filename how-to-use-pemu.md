@@ -15,3 +15,5 @@ devices with ubuntu to check if it works properly. If it doesn't work for you pl
 ### Architectures
 at the moment this only has support for qemu-system-x86_64. which is located in 
 `/home/ender/Dahlia/prickle-emulator/lib/qemu/x86_64-softmmu/qemu-system-x86_64`
+
+to run it you must use `./qemu-system-x86_64 -(perimeters)`
